@@ -1,1 +1,1 @@
-ua.privatbank.ap24;com.loggi.driverapp.staging;greenballstudio.scanword_fan;com.bile.drawgraffiti;com.epoint.workplatform.pbpad;com.zoho.expense;com.atoz.healthslate.patientapp.beta;com.namaa.jo3aan;com.android.calendar;eu.uzer.eugene;com.fidelity.mobile;com.nostra13.universalimageloader;com.tonyodev.fetchapp
+ua.privatbank.ap24;com.example.myapplication
